@@ -1,0 +1,5 @@
+Добавьте флаг в package.json
+Откройте файл package.json.
+
+Найдите секцию scripts и измените команду start:
+"start": "react-scripts --openssl-legacy-provider start"
